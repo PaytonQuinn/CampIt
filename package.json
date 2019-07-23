@@ -1,0 +1,19 @@
+{
+  "name": "campit",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000C\u0000a\u0000m\u0000p\u0000I\u0000t\u0000\r\u0000 \u0000",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PaytonQuinn/CampIt.git"
+  },
+  "author": "",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/PaytonQuinn/CampIt/issues"
+  },
+  "homepage": "https://github.com/PaytonQuinn/CampIt#readme"
+}
